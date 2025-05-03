@@ -42,7 +42,21 @@ Benefits:
 ✅ Provides actionable insights for educators and trainers.
 ✅ Boosts motivation with gamified elements.
 
+#OUTPUT
 
+![Image](https://github.com/user-attachments/assets/b8ae8eb1-29d8-4645-85ad-23cdf7a0c3ce)
+
+![Image](https://github.com/user-attachments/assets/b35d8bad-a96f-46bb-b80f-1db5fcc7d9f8)
+
+![Image](https://github.com/user-attachments/assets/5eafcfea-9d79-4253-9166-256b2fa79249)
+
+![Image](https://github.com/user-attachments/assets/57351b3e-0ab0-4ec7-9b11-fbf3991bc59a)
+
+![Image](https://github.com/user-attachments/assets/09baa64e-0a57-43d1-81fb-ba52bd5374de)
+
+![Image](https://github.com/user-attachments/assets/06c9476b-5373-4176-939a-ac4d8d4c164b)
+
+![Image](https://github.com/user-attachments/assets/cd05f3d1-b221-49fc-8a46-8bb20dd704e4)
 
 
 
